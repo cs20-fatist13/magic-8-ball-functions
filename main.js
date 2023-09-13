@@ -1,7 +1,7 @@
 // Program Title
-document.getElementById("btn").innerHTML.addEventListener("click", btnCLicked);
+document.getElementById("btn").innerHTML.addEventListener("click", btnClicked);
 
-function btnCLicked() {
+function btnClicked() {
   getResponse();
 }
 
