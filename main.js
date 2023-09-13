@@ -35,5 +35,4 @@ function randomResponse() {
   } else {
     document.getElementById("response").innerHTML = "Please ask a question.";
   }
-  return randResponse;
 }
