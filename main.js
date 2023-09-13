@@ -32,7 +32,5 @@ function randomResponse() {
     document.getElementById("response").innerHTML = "Don't count on it.";
   } else if (randResponse < 1.25) {
     document.getElementById("response").innerHTML = "Outlook not so good.";
-  } else {
-    document.getElementById("response").innerHTML = "Please ask a question.";
   }
 }
